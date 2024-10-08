@@ -16,5 +16,5 @@ sudo apt-get install trivy
 **trivy commands**
 
 
-trivy fs --format table -o trivy-scaner-report.html
+trivy fs --format table -o trivy-scaner-report.html .
 
