@@ -1,5 +1,7 @@
 # Trivy
 **What is trivy**
+
+
 Trivy is an open-source vulnerability scanner that can detect vulnerabilities in containers, file systems, Git repositories, and more
 
 **How to install Trivy in Ubuntu Os**
