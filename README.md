@@ -18,3 +18,4 @@ sudo apt-get install trivy
 
 trivy fs --format table -o trivy-scaner-report.html .
 
+trivy image --format table -o docker-image-report.html docker_images_name
